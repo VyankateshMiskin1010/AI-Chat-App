@@ -1,8 +1,6 @@
 # AI-Chat-App
 
 Welcome to the AI Chat App, a project that includes both frontend and backend components for an interactive chat experience with an artificial intelligence system.
-## video 
-https://github.com/VyankateshMiskin1010/AI-Chat-App/assets/121171811/f5a3f9d3-18b2-4f8d-a30c-7f5edd86ff6c
 
 # Project Structure
 The project is divided into two main parts:
